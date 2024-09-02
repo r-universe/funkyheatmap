@@ -5,7 +5,3 @@
 [submodule "funkyheatmap"]
 	path = funkyheatmap
 	url = https://github.com/funkyheatmap/funkyheatmap
-[submodule "pkgdown"]
-	path = pkgdown
-	url = https://github.com/rcannood/pkgdown
-	registered = false
